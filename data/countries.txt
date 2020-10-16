@@ -1,0 +1,255 @@
+Country     Capital     Population
+Andorra	Andorra la Vella	77.006
+United Arab Emirates	Abu Dhabi	9630.959
+Afghanistan	Kabul	37172.386
+Antigua and Barbuda	St. John's	96.286
+Anguilla	The Valley	13.254
+Albania	Tirana	2866.376
+Armenia	Yerevan	2951.776
+Angola	Luanda	30809.762
+Antarctica		0
+Argentina	Buenos Aires	44494.502
+American Samoa	Pago Pago	55.465
+Austria	Vienna	8847.037
+Australia	Canberra	24992.369
+Aruba	Oranjestad	105.845
+Aland Islands	Mariehamn	26.711
+Azerbaijan	Baku	9942.334
+Bosnia and Herzegovina	Sarajevo	3323.929
+Barbados	Bridgetown	286.641
+Bangladesh	Dhaka	161356.039
+Belgium	Brussels	11422.068
+Burkina Faso	Ouagadougou	19751.535
+Bulgaria	Sofia	7000.039
+Bahrain	Manama	1569.439
+Burundi	Gitega	11175.378
+Benin	Porto-Novo	11485.048
+Saint Barthelemy	Gustavia	8.45
+Bermuda	Hamilton	63.968
+Brunei	Bandar Seri Begawan	428.962
+Bolivia	Sucre	11353.142
+Bonaire, Saint Eustatius and Saba 		18.012
+Brazil	Brasilia	209469.333
+Bahamas	Nassau	385.64
+Bhutan	Thimphu	754.394
+Bouvet Island		0
+Botswana	Gaborone	2254.126
+Belarus	Minsk	9485.386
+Belize	Belmopan	383.071
+Canada	Ottawa	37058.856
+Cocos Islands	West Island	0.628
+Democratic Republic of the Congo	Kinshasa	84068.091
+Central African Republic	Bangui	4666.377
+Republic of the Congo	Brazzaville	5244.363
+Switzerland	Bern	8516.543
+Ivory Coast	Yamoussoukro	25069.229
+Cook Islands	Avarua	21.388
+Chile	Santiago	18729.16
+Cameroon	Yaounde	25216.237
+China	Beijing	1392730
+Colombia	Bogota	49648.685
+Costa Rica	San Jose	4999.441
+Cuba	Havana	11338.138
+Cabo Verde	Praia	543.767
+Curacao	 Willemstad	159.849
+Christmas Island	Flying Fish Cove	1.5
+Cyprus	Nicosia	1189.265
+Czechia	Prague	10625.695
+Germany	Berlin	82927.922
+Djibouti	Djibouti	958.92
+Denmark	Copenhagen	5797.446
+Dominica	Roseau	71.625
+Dominican Republic	Santo Domingo	10627.165
+Algeria	Algiers	42228.429
+Ecuador	Quito	17084.357
+Estonia	Tallinn	1320.884
+Egypt	Cairo	98423.595
+Western Sahara	El-Aaiun	273.008
+Eritrea	Asmara	0
+Spain	Madrid	46723.749
+Ethiopia	Addis Ababa	109224.559
+Finland	Helsinki	5518.05
+Fiji	Suva	883.483
+Falkland Islands	Stanley	2.638
+Micronesia	Palikir	112.64
+Faroe Islands	Torshavn	48.497
+France	Paris	66987.244
+Gabon	Libreville	2119.275
+United Kingdom	London	66488.991
+Grenada	St. George's	111.454
+Georgia	Tbilisi	3731
+French Guiana	Cayenne	195.506
+Guernsey	St Peter Port	65.228
+Ghana	Accra	29767.108
+Gibraltar	Gibraltar	33.718
+Greenland	Nuuk	56.025
+Gambia	Banjul	2280.102
+Guinea	Conakry	12414.318
+Guadeloupe	Basse-Terre	443
+Equatorial Guinea	Malabo	1308.974
+Greece	Athens	10727.668
+South Georgia and the South Sandwich Islands	Grytviken	0.03
+Guatemala	Guatemala City	17247.807
+Guam	Hagatna	165.768
+Guinea-Bissau	Bissau	1874.309
+Guyana	Georgetown	779.004
+Hong Kong	Hong Kong	7451
+Heard Island and McDonald Islands		0
+Honduras	Tegucigalpa	9587.522
+Croatia	Zagreb	4089.4
+Haiti	Port-au-Prince	11123.176
+Hungary	Budapest	9768.785
+Indonesia	Jakarta	267663.435
+Ireland	Dublin	4853.506
+Israel	Jerusalem	8883.8
+Isle of Man	Douglas	84.077
+India	New Delhi	1352617.328
+British Indian Ocean Territory	Diego Garcia	4
+Iraq	Baghdad	38433.6
+Iran	Tehran	81800.269
+Iceland	Reykjavik	353.574
+Italy	Rome	60431.283
+Jersey	Saint Helier	90.812
+Jamaica	Kingston	2934.855
+Jordan	Amman	9956.011
+Japan	Tokyo	126529.1
+Kenya	Nairobi	51393.01
+Kyrgyzstan	Bishkek	6315.8
+Cambodia	Phnom Penh	16249.798
+Kiribati	Tarawa	115.847
+Comoros	Moroni	832.322
+Saint Kitts and Nevis	Basseterre	52.441
+North Korea	Pyongyang	25549.819
+South Korea	Seoul	51635.256
+Kosovo	Pristina	1845.3
+Kuwait	Kuwait City	4137.309
+Cayman Islands	George Town	64.174
+Kazakhstan	Nur-Sultan	18276.499
+Laos	Vientiane	7061.507
+Lebanon	Beirut	6848.925
+Saint Lucia	Castries	181.889
+Liechtenstein	Vaduz	37.91
+Sri Lanka	Colombo	21670
+Liberia	Monrovia	4818.977
+Lesotho	Maseru	2108.132
+Lithuania	Vilnius	2789.533
+Luxembourg	Luxembourg	607.728
+Latvia	Riga	1926.542
+Libya	Tripoli	6678.567
+Morocco	Rabat	36029.138
+Monaco	Monaco	38.682
+Moldova	Chisinau	3545.883
+Montenegro	Podgorica	622.345
+Saint Martin	Marigot	37.264
+Madagascar	Antananarivo	26262.368
+Marshall Islands	Majuro	58.413
+North Macedonia	Skopje	2082.958
+Mali	Bamako	19077.69
+Myanmar	Nay Pyi Taw	53708.395
+Mongolia	Ulaanbaatar	3170.208
+Macao	Macao	631.636
+Northern Mariana Islands	Saipan	56.882
+Martinique	Fort-de-France	432.9
+Mauritania	Nouakchott	4403.319
+Montserrat	Plymouth	9.341
+Malta	Valletta	483.53
+Mauritius	Port Louis	1265.303
+Maldives	Male	515.696
+Malawi	Lilongwe	17563.749
+Mexico	Mexico City	126190.788
+Malaysia	Kuala Lumpur	31528.585
+Mozambique	Maputo	29495.962
+Namibia	Windhoek	2448.255
+New Caledonia	Noumea	284.06
+Niger	Niamey	22442.948
+Norfolk Island	Kingston	1.828
+Nigeria	Abuja	195874.74
+Nicaragua	Managua	6465.513
+Netherlands	Amsterdam	17231.017
+Norway	Oslo	5314.336
+Nepal	Kathmandu	28087.871
+Nauru	Yaren	12.704
+Niue	Alofi	2.166
+New Zealand	Wellington	4885.5
+Oman	Muscat	4829.483
+Panama	Panama City	4176.873
+Peru	Lima	31989.256
+French Polynesia	Papeete	277.679
+Papua New Guinea	Port Moresby	8606.316
+Philippines	Manila	106651.922
+Pakistan	Islamabad	212215.03
+Poland	Warsaw	37978.548
+Saint Pierre and Miquelon	Saint-Pierre	7.012
+Pitcairn	Adamstown	0.046
+Puerto Rico	San Juan	3195.153
+Palestinian Territory	East Jerusalem	4569.087
+Portugal	Lisbon	10281.762
+Palau	Melekeok	17.907
+Paraguay	Asuncion	6956.071
+Qatar	Doha	2781.677
+Reunion	Saint-Denis	776.948
+Romania	Bucharest	19473.936
+Serbia	Belgrade	6982.084
+Russia	Moscow	144478.05
+Rwanda	Kigali	12301.939
+Saudi Arabia	Riyadh	33699.947
+Solomon Islands	Honiara	652.858
+Seychelles	Victoria	96.762
+Sudan	Khartoum	41801.533
+South Sudan	Juba	8260.49
+Sweden	Stockholm	10183.175
+Singapore	Singapore	5638.676
+Saint Helena	Jamestown	7.46
+Slovenia	Ljubljana	2067.372
+Svalbard and Jan Mayen	Longyearbyen	2.55
+Slovakia	Bratislava	5447.011
+Sierra Leone	Freetown	7650.154
+San Marino	San Marino	33.785
+Senegal	Dakar	15854.36
+Somalia	Mogadishu	15008.154
+Suriname	Paramaribo	575.991
+Sao Tome and Principe	Sao Tome	197.7
+El Salvador	San Salvador	6420.744
+Sint Maarten	Philipsburg	40.654
+Syria	Damascus	16906.283
+Eswatini	Mbabane	1136.191
+Turks and Caicos Islands	Cockburn Town	37.665
+Chad	N'Djamena	15477.751
+French Southern Territories	Port-aux-Francais	0.14
+Togo	Lome	7889.094
+Thailand	Bangkok	69428.524
+Tajikistan	Dushanbe	9100.837
+Tokelau		1.466
+Timor Leste	Dili	1267.972
+Turkmenistan	Ashgabat	5850.908
+Tunisia	Tunis	11565.204
+Tonga	Nuku'alofa	103.197
+Turkey	Ankara	82319.724
+Trinidad and Tobago	Port of Spain	1389.858
+Tuvalu	Funafuti	11.508
+Taiwan	Taipei	22894.384
+Tanzania	Dodoma	56318.348
+Ukraine	Kyiv	44622.516
+Uganda	Kampala	42723.139
+United States Minor Outlying Islands		0
+United States	Washington	327167.434
+Uruguay	Montevideo	3449.299
+Uzbekistan	Tashkent	32955.4
+Vatican	Vatican City	0.921
+Saint Vincent and the Grenadines	Kingstown	110.211
+Venezuela	Caracas	28870.195
+British Virgin Islands	Road Town	29.802
+U.S. Virgin Islands	Charlotte Amalie	106.977
+Vietnam	Hanoi	95540.395
+Vanuatu	Port Vila	292.68
+Wallis and Futuna	Mata Utu	16.025
+Samoa	Apia	196.13
+Yemen	Sanaa	28498.687
+Mayotte	Mamoudzou	159.042
+South Africa	Pretoria	57779.622
+Zambia	Lusaka	17351.822
+Zimbabwe	Harare	14439.018
+Serbia and Montenegro	Belgrade	10829.175
+Netherlands Antilles	Willemstad	300
+		
+		
